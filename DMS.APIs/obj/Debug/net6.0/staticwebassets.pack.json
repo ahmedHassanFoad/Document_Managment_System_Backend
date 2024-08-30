@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\wwwroot\\Uploads\\3ffcc023-09fd-4203-87f0-86439aa1caba.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\3ffcc023-09fd-4203-87f0-86439aa1caba.pdf"
+    },
+    {
+      "Id": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\wwwroot\\Uploads\\94938385-fb13-4794-8a9d-46e680571a3f.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\94938385-fb13-4794-8a9d-46e680571a3f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\wwwroot\\Uploads\\b91b1d3e-63b1-4f20-8650-f5cad82ef68d.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\b91b1d3e-63b1-4f20-8650-f5cad82ef68d.pdf"
+    },
+    {
+      "Id": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\wwwroot\\Uploads\\c0164bf6-0d01-43d0-a33e-122e271fb763.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\c0164bf6-0d01-43d0-a33e-122e271fb763.pdf"
+    },
+    {
+      "Id": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\wwwroot\\Uploads\\ce2e3b30-90f4-4c8d-b277-955941cf4e6d.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ce2e3b30-90f4-4c8d-b277-955941cf4e6d.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DMS.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DMS.APIs.props",
+      "PackagePath": "build\\DMS.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DMS.APIs.props",
+      "PackagePath": "buildMultiTargeting\\DMS.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DMS.APIs.props",
+      "PackagePath": "buildTransitive\\DMS.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

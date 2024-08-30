@@ -1,0 +1,15 @@
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\bin\Debug\net6.0\DMS.Repository.deps.json
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\bin\Debug\net6.0\DMS.Repository.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\bin\Debug\net6.0\DMS.Repository.pdb
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\bin\Debug\net6.0\DMS.Core.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\bin\Debug\net6.0\DMS.Core.pdb
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.AssemblyInfoInputs.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.AssemblyInfo.cs
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repo.EF4BC080.Up2Date
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\refint\DMS.Repository.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\DMS.Repository.pdb
+C:\Users\user0\Desktop\final DMS version\DMS.Repository\obj\Debug\net6.0\ref\DMS.Repository.dll

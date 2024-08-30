@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68ED4-28E9-4DE8-9880-3DE4A2DF5C71}|..\\DMS.Services\\DMS.Services.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_2IBJ076/DMS_2/True/SqlTable/dbo.Documents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\dto\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:dto\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\profiles\\registerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:profiles\\registerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_2IBJ076/DMS_2/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\profiles\\userdetailsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:profiles\\userdetailsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\dto\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:dto\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\dto\\worspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:dto\\worspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.apis\\helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A850CD39-8305-4F9C-8F36-623EE038DA3B}|DMS.APIs.csproj|solutionrelative:helpers\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F163C-7A57-45E7-8BB9-8BE1612FA487}|..\\DMS.Repository\\DMS.Repository.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.repository\\repository\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\repository\\idocumentrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\services\\idirectoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68ED4-28E9-4DE8-9880-3DE4A2DF5C71}|..\\DMS.Services\\DMS.Services.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.services\\directoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F163C-7A57-45E7-8BB9-8BE1612FA487}|..\\DMS.Repository\\DMS.Repository.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.repository\\repository\\directoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F163C-7A57-45E7-8BB9-8BE1612FA487}|..\\DMS.Repository\\DMS.Repository.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\entities\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D609000E-FF84-4046-920C-2FC39F20DC2C}|..\\DMS.Core\\DMS.Core.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F163C-7A57-45E7-8BB9-8BE1612FA487}|..\\DMS.Repository\\DMS.Repository.csproj|c:\\users\\user0\\desktop\\final dms version\\dms.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Documents [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_2IBJ076/DMS_2/True/SqlTable/dbo.Documents.sql",
+              "ToolTip": "dbo.Documents [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T18:39:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:38:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Entities\\Document.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\Document.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Entities\\Document.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:59:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Services\\IDocumentService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA2wBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:59:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:45:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Services\\DocumentService.cs",
+              "RelativeToolTip": "..\\DMS.Services\\DocumentService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAxwIkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:59:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\DocumentDto.cs",
+              "RelativeDocumentMoniker": "Dto\\DocumentDto.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\DocumentDto.cs",
+              "RelativeToolTip": "Dto\\DocumentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:25:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:17:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:18:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\RegisterProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\RegisterProfile.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\RegisterProfile.cs",
+              "RelativeToolTip": "Profiles\\RegisterProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:21:08.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:20:47.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:55:03.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:48:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\UserDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDetailsDto.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\UserDetailsDto.cs",
+              "RelativeToolTip": "Dto\\UserDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:19:22.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_2IBJ076/DMS_2/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T14:07:15.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDetailsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\UserDetailsProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\UserDetailsProfile.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Profiles\\UserDetailsProfile.cs",
+              "RelativeToolTip": "Profiles\\UserDetailsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:52:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorSpaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\WorSpaceDto.cs",
+              "RelativeDocumentMoniker": "Dto\\WorSpaceDto.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Dto\\WorSpaceDto.cs",
+              "RelativeToolTip": "Dto\\WorSpaceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:37:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Helpers\\SeedData.cs",
+              "RelativeDocumentMoniker": "Helpers\\SeedData.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.APIs\\Helpers\\SeedData.cs",
+              "RelativeToolTip": "Helpers\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:15:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDirectoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Services\\IDirectoryService.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Services\\IDirectoryService.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Services\\IDirectoryService.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Services\\IDirectoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:22:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Repository\\Repository\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\DocumentRepository.cs",
+              "RelativeToolTip": "..\\DMS.Repository\\Repository\\DocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:59:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDocumentRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Repository\\IDocumentRepsitory.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Repository\\IDocumentRepsitory.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Repository\\IDocumentRepsitory.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Repository\\IDocumentRepsitory.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:59:26.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DirectoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Services\\DirectoryService.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Services\\DirectoryService.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Services\\DirectoryService.cs",
+              "RelativeToolTip": "..\\DMS.Services\\DirectoryService.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAowIYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:20:01.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DirectoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\DirectoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Repository\\Repository\\DirectoryRepository.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\DirectoryRepository.cs",
+              "RelativeToolTip": "..\\DMS.Repository\\Repository\\DirectoryRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:17:52.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Repository\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "..\\DMS.Repository\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:18:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:29:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkSpace.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\WorkSpace.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Core\\Entities\\WorkSpace.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Core\\Entities\\WorkSpace.cs",
+              "RelativeToolTip": "..\\DMS.Core\\Entities\\WorkSpace.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:30:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user0\\Desktop\\final DMS version\\DMS.Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\DMS.Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:38:34.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

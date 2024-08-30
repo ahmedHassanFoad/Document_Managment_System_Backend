@@ -1,0 +1,12 @@
+C:\Users\user0\Desktop\final DMS version\DMS.Core\bin\Debug\net6.0\DMS.Core.deps.json
+C:\Users\user0\Desktop\final DMS version\DMS.Core\bin\Debug\net6.0\DMS.Core.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Core\bin\Debug\net6.0\DMS.Core.pdb
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.AssemblyInfoInputs.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.AssemblyInfo.cs
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\refint\DMS.Core.dll
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\DMS.Core.pdb
+C:\Users\user0\Desktop\final DMS version\DMS.Core\obj\Debug\net6.0\ref\DMS.Core.dll
